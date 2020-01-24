@@ -6,7 +6,7 @@ function setup() {
 }
  
 function draw() {
-	background(0,0,0);
+	background(255,255,255);
 	textSize(32);
     noStroke();
     
